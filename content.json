@@ -1,1 +1,22 @@
-
+{
+  "type": "pages",
+  "headline": "Мои приложения",
+  "template": {
+    "type": "default",
+    "layout": "0,0,5,4",
+    "area": "1,1,10,4",
+    "imageFiller": "contain"
+  },
+  "items": [
+    {
+      "label": "OTTPlayer",
+      "image": "https://wals09.github.io/msx/logon/ottplayer.png",
+      "action": "link:http://widget.ottplayer.tv"
+    },
+    {
+      "label": "Kinopub",
+      "image": "https://wals09.github.io/msx/logon/kinopub_green.png",
+      "action": "link:https://cdnservices.link"
+    }
+  ]
+}
