@@ -5,15 +5,16 @@
       "label": "OTTPlayer",
       "icon": "live-tv",
       "data": {
-        "pages": [
+        "type": "pages",
+        "template": {
+          "type": "button",
+          "layout": "0,0,6,4",
+          "area": "0,0,12,6"
+        },
+        "items": [
           {
-            "items": [
-              {
-                "type": "default",
-                "label": "OTTPlayer",
-                "action": "link:http://widget.ottplayer.tv"
-              }
-            ]
+            "label": "OTTPlayer",
+            "action": "link:http://widget.ottplayer.tv"
           }
         ]
       }
@@ -22,15 +23,16 @@
       "label": "Kinopub",
       "icon": "movie",
       "data": {
-        "pages": [
+        "type": "pages",
+        "template": {
+          "type": "button",
+          "layout": "0,0,6,4",
+          "area": "0,0,12,6"
+        },
+        "items": [
           {
-            "items": [
-              {
-                "type": "default",
-                "label": "Kinopub",
-                "action": "link:https://cdnservices.link"
-              }
-            ]
+            "label": "Kinopub",
+            "action": "link:https://cdnservices.link"
           }
         ]
       }
