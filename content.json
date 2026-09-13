@@ -11,7 +11,7 @@
     {
       "label": "OTTPlayer",
       "image": "https://wals09.github.io/msx/logon/ottplayer.png",
-      "action": "link:http://widget.ottplayer.tv"
+      "action": "link:window:http://widget.ottplayer.tv"
     },
     {
       "label": "Kinopub",
