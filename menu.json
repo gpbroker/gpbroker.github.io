@@ -4,12 +4,36 @@
     {
       "label": "OTTPlayer",
       "icon": "live-tv",
-      "action": "link:http://widget.ottplayer.tv"
+      "data": {
+        "pages": [
+          {
+            "items": [
+              {
+                "type": "default",
+                "label": "OTTPlayer",
+                "action": "link:http://widget.ottplayer.tv"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "label": "Kinopub",
       "icon": "movie",
-      "action": "link:https://cdnservices.link"
+      "data": {
+        "pages": [
+          {
+            "items": [
+              {
+                "type": "default",
+                "label": "Kinopub",
+                "action": "link:https://cdnservices.link"
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }
