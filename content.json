@@ -10,12 +10,12 @@
   "items": [
     {
       "label": "OTTPlayer",
-      "image": "https://wals09.github.io/msx/logon/ottplayer.png",
+      "image": "https://gpbroker.github.io/ottplayer.png",
       "action": "link:http://widget.ottplayer.tv"
     },
     {
       "label": "Kinopub",
-      "image": "https://wals09.github.io/msx/logon/kinopub_green.png",
+      "image": "https://gpbroker.github.io/kinopub.png",
       "action": "link:https://cdnservices.link"
     }
   ]
