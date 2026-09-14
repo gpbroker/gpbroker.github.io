@@ -3,8 +3,8 @@
   "headline": "Мои приложения",
   "template": {
     "type": "default",
-    "layout": "0,0,5,4",
-    "area": "1,1,10,4",
+    "layout": "0,0,4,4",
+    "area": "0,1,12,4",
     "imageFiller": "contain"
   },
   "items": [
@@ -17,6 +17,11 @@
       "label": "Kinopub",
       "image": "https://gpbroker.github.io/kinopub.png",
       "action": "link:https://cdnservices.link"
+    },
+    {
+      "label": "Lift",
+      "image": "https://gpbroker.github.io/lift.png",
+      "action": "link:https://liftapp.ink"
     }
   ]
 }
