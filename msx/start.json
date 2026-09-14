@@ -1,7 +1,8 @@
 {
   "name": "My TV",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "parameter": "content:https://gpbroker.github.io/content.json",
+  "welcome": "content",
   "launcher": {
     "icon": "apps"
   }
