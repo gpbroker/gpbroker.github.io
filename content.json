@@ -21,7 +21,7 @@
     {
       "label": "Lift",
       "image": "https://gpbroker.github.io/lift.png",
-      "action": "link:https://liftw.ws/"
+      "action": "menu:request:interaction:menu@https://lift3.ws/msx/"
     }
   ]
 }
