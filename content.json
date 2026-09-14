@@ -18,10 +18,13 @@
       "image": "https://gpbroker.github.io/kinopub.png",
       "action": "link:https://cdnservices.link"
     },
-    {
-      "label": "Lift",
-      "image": "https://gpbroker.github.io/lift.png",
-      "action": "menu:request:interaction:menu@https://lift3.ws/msx/"
-    }
-  ]
+   {
+  "label": "Lift",
+  "image": "https://gpbroker.github.io/lift.png",
+  "action": "start",
+  "data": {
+    "name": "Lift",
+    "version": "0.0.3",
+    "parameter": "menu:request:interaction:menu@https://lift3.ws/msx/"
+  }
 }
