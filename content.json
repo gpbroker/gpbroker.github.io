@@ -18,7 +18,9 @@
       "image": "https://gpbroker.github.io/kinopub.png",
       "action": "link:https://cdnservices.link"
     },
-   {
-  "label": "Lift",
-  "image": "https://gpbroker.github.io/lift.png"
+       {
+      "label": "Lift",
+      "image": "https://gpbroker.github.io/lift.png"
+    }
+  ]
 }
